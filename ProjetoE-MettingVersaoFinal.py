@@ -149,6 +149,13 @@ def Program2():
         for l in (Clientes):
             print(l)
             print('Estão Sendo Exibida ACIMA os Seguintes Pedidos: TEMA DA REUNIÃO, HORARIO, DATA, SALA E NOME DE USUÁRIO')
+            
+            
+        for b in (Coorden):
+
+            print('Lista de Presença do Coordenador')
+            print(b)
+
 
 
 
